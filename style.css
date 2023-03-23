@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #6070FF;
+  --text-color: #344563;
+}
+
+body {
+  margin: 0;
+  background-image: url("./images/bg.png");
+  background-repeat: no-repeat;
+  background-position: center 76px;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.logo {
+  height: 20px;
+  width: 76px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 18px;
+  color: var(--primary-color);
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  padding: 10px 12px;
+}
+
+.svg-menu {
+  padding-right: 12px;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 6rem;
+  margin-left: 2rem;
+}
+
+.intro h1 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+  text-align: left;
+
+}
+
+.main p {
+  text-align: left;
+}
+
+.main {
+  padding: 1rem;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--text-color);
+  text-align: left;
+  margin-left: auto;
+  width: 100%;
+  margin-top: 12px;
+  height: 150px;
+  margin-left: auto;
+}
+
+.connect {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.social-media {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.social-icons a {
+  margin-right: 1rem;
+}
+
+.social-icons img {
+  width: 20px;
+  height: 20px;
+}
