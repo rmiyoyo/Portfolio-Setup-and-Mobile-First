@@ -3,7 +3,7 @@
 }
 
 :root {
-  --primary-color: #6070FF;
+  --primary-color: #6070ff;
   --text-color: #344563;
 }
 
@@ -57,11 +57,9 @@ nav {
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  text-align: center;
   color: var(--text-color);
   margin-bottom: 0.5rem;
   text-align: left;
-
 }
 
 .main p {
@@ -81,7 +79,6 @@ nav {
   width: 100%;
   margin-top: 12px;
   height: 150px;
-  margin-left: auto;
 }
 
 .connect {
