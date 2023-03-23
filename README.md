@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Portfolio Setup and Mobile First <a name="about-project"></a>
 
 **Portfolio Setup and Mobile First** is a HTML/CSS project that uses Figma for UI design, Flexbox to place elements in HTML pages and backgrounds to enhance the look of a portfolio website.
 
@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:rmiyoyo/Hello-Microverse.git
+  git clone git@github.com:rmiyoyo/Portfolio-Setup-and-Mobile-First.git
 ```
 
 ### Install
@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 Install the prerequisites this project using:
 
 ```sh
-  cd Hello-Microverse
+  cd Portfolio-Setup-and-Mobile-First
   npm init -y
   npm install --save-dev hint@7.x
   npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
