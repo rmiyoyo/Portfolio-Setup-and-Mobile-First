@@ -48,7 +48,7 @@
 - **A portfolio website with enhanced look.**
 - **linters**
 
-![Screenshot](./images/Screenshot%20from%202023-03-24%2000-33-23.png)
+![Screenshot](./images/Screenshot%202.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
